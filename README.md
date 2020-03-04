@@ -26,3 +26,7 @@ Ajout d'une condition simple de validation d'email et d'affichage du message en 
 # Etape 6
 
 Ajout d'une première condition plus générique avec l'arobase
+
+# Etape 7
+
+Extraire la validation de l'adresse e-mail dans une fonction
