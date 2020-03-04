@@ -5,7 +5,7 @@ myForm.addEventListener('submit', function(e) {
   let value = document.getElementById("email").value
   errorMessage = value
 
-  if (value == 'email@example.com') {
+  if (value.includes('@')) {
     errorMessage = 'Adresse email ajoutée !'
   } else {
     errorMessage = 'Veuillez entrer une adresse e-mail valide'
