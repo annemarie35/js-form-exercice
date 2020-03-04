@@ -18,3 +18,7 @@ Affichage du message seulement quand l'utilisateur clique sur "Ajouter"
 # Etape 4
 
 Récupérer la valeur de l'email et l'afficher en tant que message d'erreur
+
+# Etape 5
+
+Ajout d'une condition simple de validation d'email et d'affichage du message en conséquence
