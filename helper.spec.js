@@ -1,4 +1,5 @@
-import checkEmailIsValid from "./helper";
+import checkEmailIsValid from "./helper"
+// import pour l'exercice pour éviter de mocker document pour le moment
 
 describe('checkEmailIsValid', () => {
   describe('Valid email', () => {

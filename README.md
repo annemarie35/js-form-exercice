@@ -42,3 +42,8 @@ $ npm install
 ```bash
 $ npm test
 ```
+
+# Etape 9
+
+Ecrire le code qui vérifie que l'email est valide en utilisant les expressions régulières
+[source](https://html.form.guide/best-practices/validate-email-address-using-javascript.html)
