@@ -10,3 +10,7 @@ Exercice simple d'initiation à javascript avec un formulaire de validation d'em
 # Etape 2
 
 Affichage d'un message en dessous du formulaire
+
+# Etape 3
+
+Affichage du message seulement quand l'utilisateur clique sur "Ajouter"
