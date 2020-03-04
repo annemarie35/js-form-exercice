@@ -30,3 +30,15 @@ Ajout d'une première condition plus générique avec l'arobase
 # Etape 7
 
 Extraire la validation de l'adresse e-mail dans une fonction
+
+# Etape 8 (facultative)
+
+Ajouts de tests (TDD !)
+Pré-requis : avoir Node installé sur sa machine.
+```bash
+$ npm install
+```
+
+```bash
+$ npm test
+```
