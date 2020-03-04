@@ -14,3 +14,7 @@ Affichage d'un message en dessous du formulaire
 # Etape 3
 
 Affichage du message seulement quand l'utilisateur clique sur "Ajouter"
+
+# Etape 4
+
+Récupérer la valeur de l'email et l'afficher en tant que message d'erreur

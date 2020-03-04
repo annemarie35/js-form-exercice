@@ -2,7 +2,9 @@ const myForm = document.getElementById('myForm')
 let errorMessage
 
 myForm.addEventListener('submit', function(e) {
-  errorMessage = "Message affiché"
+  let value = document.getElementById("email").value
+  errorMessage = value
+
   document.getElementById("error-message").innerHTML = errorMessage
   e.preventDefault()
 })
