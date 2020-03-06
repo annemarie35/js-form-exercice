@@ -47,3 +47,7 @@ $ npm test
 
 Ecrire le code qui vérifie que l'email est valide en utilisant les expressions régulières
 [source](https://html.form.guide/best-practices/validate-email-address-using-javascript.html)
+
+# Etape 10
+
+Réinitialiser la valeur du formulaire

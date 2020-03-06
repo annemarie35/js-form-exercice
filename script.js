@@ -20,6 +20,8 @@ myForm.addEventListener('submit', function(e) {
 })
 
 myForm.addEventListener('reset', function(e) {
+  document.getElementById("email").value = ""
+  document.getElementById("error-message").value = ""
   e.preventDefault()
 })
 
